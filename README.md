@@ -1,1 +1,1 @@
-# AI_modulet-
+# ai-modulet
