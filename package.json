@@ -1,0 +1,13 @@
+{
+  "name": "ai-modulet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "E-modul me qasje të hapur për arsimin gjithëpërfshirës – projekti ValuED",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
