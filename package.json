@@ -1,0 +1,23 @@
+{
+  "name": "ai-modulet",
+  "version": "1.0.0",
+  "description": "E-modul me qasje të hapur për arsimin gjithëpërfshirës – projekti ValuED",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlerajashari3-svg/AI_modulet-.git"
+  },
+  "keywords": ["education", "inclusive", "e-learning"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlerajashari3-svg/AI_modulet-/issues"
+  },
+  "homepage": "https://github.com/vlerajashari3-svg/AI_modulet-#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}

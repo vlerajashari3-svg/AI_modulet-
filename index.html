@@ -1120,5 +1120,9 @@ document.getElementById('menuBtn').onclick=e=>{ const m=document.getElementById(
 window.addEventListener('hashchange', ()=>{ render(); document.getElementById('main').focus({preventScroll:true}); window.scrollTo({top:0}); });
 render();
 </script>
+<script type="module">
+  import { inject } from 'https://cdn.jsdelivr.net/npm/@vercel/analytics@2/dist/index.mjs';
+  inject();
+</script>
 </body>
 </html>
